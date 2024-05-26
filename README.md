@@ -1,5 +1,8 @@
 # Code-Quest
 DATA ANALYSIS: Sales analysis project 
+
+https://github.com/DanishP1/Code-Quest/assets/145308509/b33993f4-4a39-4899-bb75-a36e1d899656
+
 The innovative dashboard features clean and simple charts and filters, offering rich functionality with a variety of charts and slicers. 
 It includes detailed documentation explaining the dataset and utilizes multiple data connectors.
 With the help of this dashboard we can identify many insights as follows:
