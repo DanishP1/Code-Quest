@@ -1,5 +1,6 @@
 # Code-Quest
 DATA ANALYSIS: Sales analysis project 
+A small video of my dashboard.
 
 https://github.com/DanishP1/Code-Quest/assets/145308509/b33993f4-4a39-4899-bb75-a36e1d899656
 
