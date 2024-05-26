@@ -25,3 +25,5 @@ Sales by Region:
 How are sales distributed across different regions?
 -> Sales distribution across different regions is categorized into high, 
    medium, low, and critical levels.
+
+![goku](https://github.com/DanishP1/Code-Quest/assets/145308509/89e39e63-bfce-4ee5-a9d1-4f038a3c5c43)
